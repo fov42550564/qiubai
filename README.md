@@ -4,7 +4,9 @@ node-qiubai
 ===========
 ![](http://pic27.nipic.com/20130304/2045591_114304202119_2.jpg)
 
-download qiubai offline and genarate html files
+download qiubai offline and genarate html files <br \>
+if you want to read qiubai online with nodejs, <br \>
+please turn to [node-qiubai] which base on [node-webkit]
 
 Installation
 ------------
@@ -70,3 +72,5 @@ The MIT License (MIT)
 	IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 	CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+[node-qiubai]: https://npmjs.org/package/node-qiubai
+[node-webkit]: https://github.com/rogerwang/node-webkit
