@@ -1,0 +1,40 @@
+.back{
+	width:100%;
+	height:100%;
+}
+.logo{
+	width:100%;
+	height:100px;
+	background-image: url('back.jpg');
+}
+.menu{
+	margin-left:40%;
+}
+li{
+	margin-bottom:8px;
+}
+.item{
+	border: 1px solid #3F3F3F;
+	border-radius: 7px;
+	margin:0 0 20 8
+}
+.text{
+}
+.scaleimg{
+	width:200px;
+	height:200px;
+}
+.origimg{
+	width:auto;
+	height:auto;
+}
+.lefta{
+	margin-left:8px;
+}
+.middlea{
+	margin-left:45%;
+}
+.righta{
+	margin-right:8px;
+	float:right;
+}

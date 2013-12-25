@@ -1,0 +1,30 @@
+{
+  "name": "qiubai",
+  "version": "0.0.0",
+  "author": "YunJiang.Fang",
+  "description": "download qiubai offline and genarate html files",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fov42550564/qiubai.git"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "jsdom",
+    "shelljs",
+    "offline",
+    "qiubai"
+  ],
+  "dependencies": {
+    "jsdom": "*",
+    "shelljs": "*"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fov42550564/qiubai/issues"
+  },
+  "homepage": "https://github.com/fov42550564/qiubai",
+  "directories": {
+    "test": "test"
+  }
+}
