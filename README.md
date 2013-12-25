@@ -27,25 +27,25 @@ qiubai.startSave("fang", 2);
 
 Output
 -------
-`fang`
-|--`8hr`
-|--`hot`
-|--`week`
-|--`month`
-|--`imgrank`
-|--`pic`
-|--`late`
-|--`history`
+`fang`</br>
+|--`8hr`</br>
+|--`hot`</br>
+|--`week`</br>
+|--`month`</br>
+|--`imgrank`</br>
+|--`pic`</br>
+|--`late`</br>
+|--`history`</br>
 
 API
 -------
-QiuBai.startSave(destDir, maxSavePages);
+QiuBai.startSave(destDir, maxSavePages);</br>
 
-`destDir` is qiubai offline file store in
-`maxSavePages` is you want to save pages
-qiubai has types as:
-`8hr`, `hot`, `week`, `month`, `imgrank`, `pic`, `late`, `history`
-default all types will be download, if you want to modify it, modify `lib/qiubai.js`
+`destDir` is qiubai offline file store in</br>
+`maxSavePages` is you want to save pages</br>
+qiubai has types as:</br>
+`8hr`, `hot`, `week`, `month`, `imgrank`, `pic`, `late`, `history`</br>
+default all types will be download, if you want to modify it, modify `lib/qiubai.js`</br>
 
 License
 -------
