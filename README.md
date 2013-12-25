@@ -1,10 +1,15 @@
 Copyright (c) 2013 YunJiang.Fang contributors (listed above).
 
-node-qiubai
+offline-qiubai
 ===========
 ![](http://pic27.nipic.com/20130304/2045591_114304202119_2.jpg)
 
 download qiubai offline and genarate html files <br \>
+
+
+note
+------------
+
 if you want to read qiubai online with nodejs, <br \>
 please turn to [node-qiubai] which base on [node-webkit]
 
