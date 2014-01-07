@@ -21,8 +21,8 @@ li{
 .text{
 }
 .scaleimg{
-	width:200px;
-	height:200px;
+	width:auto;
+	height:auto;
 }
 .origimg{
 	width:auto;

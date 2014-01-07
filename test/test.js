@@ -1,5 +1,5 @@
 var QiuBai = require("..");
 
 var qiubai = new QiuBai();
-qiubai.startSave("fang", 2);
+qiubai.startSave("fang", 10);
 
